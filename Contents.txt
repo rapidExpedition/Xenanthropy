@@ -1,4 +1,3 @@
-About.txt
 inPractice.md
 inPrescription.md
 inDepth.md
