@@ -1,3 +1,6 @@
 [submodule "Xenanthropy.wiki"]
 	path = Xenanthropy.wiki
 	url = https://github.com/rapidExpedition/Xenanthropy.wiki.git
+[submodule "xenanthropy"]
+	path = xenanthropy
+	url = https://www.penflip.com/RMBLRX/xenanthropy.git
