@@ -1,5 +1,5 @@
 # Summary
 
 * [In Practice](inPractice.md)
-* In Prescription
+* [In Prescription](inPrescription.md)
 
