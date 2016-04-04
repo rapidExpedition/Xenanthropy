@@ -2,5 +2,5 @@
 
 * [In Practice](inPractice.md)
 * [In Prescription](inPrescription.md)
-* In Depth
+* [In Depth](inDepth.md)
 
