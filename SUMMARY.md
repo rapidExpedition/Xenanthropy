@@ -1,4 +1,4 @@
 # Summary
 
-* In Practice
+* [In Practice](inPractice.md)
 
