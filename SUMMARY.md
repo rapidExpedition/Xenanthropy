@@ -6,4 +6,4 @@
 * [In Prescription](inPrescription/inPrescription.md)
 * [In Depth](inDepth/inDepth.md)
   * [Cyclical Nature](inDepth/cyclicalNature.md)
-  * [Triangulation](inDepth/triAngulation)
+  * [Triangulation](inDepth/triAngulation.md)
