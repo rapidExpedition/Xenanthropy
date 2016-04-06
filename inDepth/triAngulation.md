@@ -8,6 +8,6 @@ Where superliminality comes into play is as the manner in which liminality leave
 
 Here we come at last to the subliminal--the static world as it is from moment to moment.  It is immutable in and of itself but by the procession of time from one moment to the next.  It is what is written and what may spur further writing.  It is impossible to grasp, as the mere act of grasping cannot be isolated from it.
 
-####
+###
 
 [1]: *This is a work in progress.  Visit the [repo](https://github.com/rapidExpedition/Xenanthropy) to learn how to comment or contribute.*

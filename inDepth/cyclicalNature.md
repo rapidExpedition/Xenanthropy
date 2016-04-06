@@ -6,6 +6,6 @@ At a higher frequency, the cycles of our experiential self are essentially the r
 
 By exploring this spectrum evenly and to our fullest capacity, we may develop a more massive yet condensed sense of self by recognizing all that begets our being from moment to moment, from the grandest schemes down to the finest details.  However, it is important first to develop a model by which to grasp this spectrum in parts which we may discern from one another and which enable us to infer the indiscernible as well as the invisible--the sub and superliminal.
 
-####
+###
 
 [1]: *This is a work in progress.  Visit the [repo](https://github.com/rapidExpedition/Xenanthropy) to learn how to comment or contribute.*
