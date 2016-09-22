@@ -1,0 +1,19 @@
+{
+  "name": "xenanthropy",
+  "version": "1.0.0",
+  "description": "**Xenanthropy** is the expression of human potential in the pursuit of enhancement therein.  As such, *Xenanthropism* posits that mastery of the human condition is best characterized by a state of perpetual growth.  It is a *philosophy of new humanity*, meant to formulate a means of achieving a permanent *état extraordinaire*, both actively subordinating and seemingly alien to any given stage of greater human development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapidExpedition/Xenanthropy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapidExpedition/Xenanthropy/issues"
+  },
+  "homepage": "https://github.com/rapidExpedition/Xenanthropy#readme"
+}
