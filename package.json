@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rapidExpedition/Xenanthropy/issues"
   },
-  "homepage": "https://github.com/rapidExpedition/Xenanthropy#readme"
+  "homepage": "https://github.com/rapidExpedition/Xenanthropy#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
 }
